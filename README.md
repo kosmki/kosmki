@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kosmki
-- 👀 I’m interested in Mschine Learning and Data Science.
+- 👀 I’m interested in Machine Learning and Data Science.
 - 🌱 I’m currently leveraging my knowledge in ML algoritms.
 - 💞️ I’m looking to collaborate on interesting ML projects.
 - 📫 You can reach me by email: KosmachevK@gmail.com
